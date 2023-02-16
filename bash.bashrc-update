@@ -2,3 +2,4 @@
 alias youtube="install my git repo"
 alias Torrent="install my git repo"
 alias notepad="install my git repo"
+alias up="apt-update && apt-upgrade -y"
